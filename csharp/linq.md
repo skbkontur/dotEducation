@@ -18,6 +18,10 @@ LINQ это удобный и, на первый взгляд, простой и
 
 Небольшая статья на metanit, показывающая применение интерфейсов IEnumarable и IQueryable в Entity Framework. Там на примере генерируемых SQL запросов отлично показана разница между этими интерфейсами.
 
+**[Статья «IQueryable порождает сильную связанность» от Mark Seemann](https://habr.com/ru/post/543774/)**
+
+Статья, показывающая важный недостаток IQueryable. Перед использованием IQueryable полезно понимать, почему использование этого интерфейса для построения API может оказаться плохой идеей.
+
 ## Как это работает?
 
 **[Доклад «Деревья выражений в enterprise-разработке» от Максима Аршинова](https://www.youtube.com/watch?v=J2XzsCoJM4o&feature=emb_logo&ab_channel=DotNext) ([Расшифровка](https://habr.com/ru/company/jugru/blog/423891/) и [актуальная англоязычная версия](https://www.youtube.com/watch?v=ncdRDv6sV1A))**
