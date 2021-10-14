@@ -36,10 +36,10 @@
 
 Рассказ о современной версии JIT компилятора, использующейся в .NET. Помимо общего рассказа, там приведено много ссылок на другие материалы и относящиеся к теме PR в репозитории CoreCLR.
 
-**[Что такое Tired Compilation — глава из анонса .NET Core 3](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0#tiered-compilation)**
+**[Что такое Tiered Compilation — глава из анонса .NET Core 3](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0#tiered-compilation)**
 
-Tired Compilation это одна из возможностей .NET Core 3, оптимизирующая работу JIT компилятора. В этой же главе дается ссылка на [документ в репозитории Microsoft](https://github.com/dotnet/runtime/blob/main/docs/design/features/tiered-compilation.md), рассказывающий о Tired Compilation несколько подробнее.
+Tiered Compilation это одна из возможностей .NET Core 3, оптимизирующая работу JIT компилятора. В этой же главе дается ссылка на [документ в репозитории Microsoft](https://github.com/dotnet/runtime/blob/main/docs/design/features/tiered-compilation.md), рассказывающий о Tiered Compilation несколько подробнее.
 
-**[Обсуждение Tired Compilation в репозитории .NET Core Runtime](https://github.com/dotnet/runtime/issues/12515)**
+**[Обсуждение Tiered Compilation в репозитории .NET Core Runtime](https://github.com/dotnet/runtime/issues/12515)**
 
-Отличная дискуссия, позволяющая лучше понять особенности и ограничения Tired Compilation.
+Отличная дискуссия, позволяющая лучше понять особенности и ограничения Tiered Compilation.
