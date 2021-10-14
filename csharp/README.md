@@ -11,4 +11,4 @@
 - [CIL и JIT](cil_jit.md)
 - [Асинхронность](async.md)
 - [Метапрограммирование](metaprogramming.md)
-- Expression Trees, Query Providers, LINQ
+- [Expression Trees, Query Providers, LINQ](linq.md)
