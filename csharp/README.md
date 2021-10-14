@@ -10,5 +10,5 @@
 - Введение: где получить базовые знания о C#?
 - [CIL и JIT](cil_jit.md)
 - [Асинхронность](async.md)
-- Метапрограммирование
+- [Метапрограммирование](metaprogramming.md)
 - Expression Trees, Query Providers, LINQ
