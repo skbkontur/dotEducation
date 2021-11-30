@@ -14,3 +14,4 @@
 - [Асинхронность](async.md)
 - [Метапрограммирование](metaprogramming.md)
 - [Expression Trees, Query Providers, LINQ](linq.md)
+- [Strings](strings.md)
